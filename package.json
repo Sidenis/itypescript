@@ -1,5 +1,5 @@
 {
-  "name": "itypescript",
+  "name": "@actus/itypescript",
   "version": "0.2.2",
   "description": "ITypescript is a Typescript kernel for the Jupyter notebook (A Modified version of IJavascript module)",
   "keywords": [
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nearbydelta/itypescript.git"
+    "url": "https://github.com/sidenis/itypescript.git"
   },
   "bin": {
     "its": "bin/itypescript.js",

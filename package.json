@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "jp-kernel": "^0.1.3",
-    "typescript": "^2.4.2",
+    "typescript": "^3.3.3333",
     "typescript-simple": "^8.0.3",
     "uuid": "^3.0.1"
   },

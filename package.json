@@ -1,6 +1,6 @@
 {
   "name": "@actus/itypescript",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "ITypescript is a Typescript kernel for the Jupyter notebook (A Modified version of IJavascript module)",
   "keywords": [
     "typescript",
